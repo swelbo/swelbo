@@ -24,6 +24,12 @@
 </p>
 
 <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&layout=compact&theme=dracula" width="350"></a>
+</p>
+
+
+
+<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
