@@ -15,16 +15,29 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<a href="https://github.com/swelbo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=panda" />
-</a>
-<a href="https://github.com/swelbo/convoychat">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=swelbo&theme=panda" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=panda" width="375"></a>
+  </p>
+
+  <p align='center'>
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=panda" width="375"></a>
+  </p>
+</div>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda" width="375"></a>
 </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 
 <p align='center'>
