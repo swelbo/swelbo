@@ -65,12 +65,20 @@ Here are some ideas to get you started:
 <details>
   <summary>📃 Resume</summary>
 
- <!--
+ 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Ph.D. Molecular Plant Pathology and Bioinformatics**\
+📆 2013 - 2017\
+📍 **Hertfordshire University** - Hatfield, England, UK
+
+- 📖 **M.Sc. Microbiology**\
+📆 2008 - 2011\
+📍 **Aberystwyth University** - Aberystwyth, Wales, UK
+
+- 📖 **B.Sc. Microbiology**\
+📆 2008 - 2011\
+📍 **Aberystwyth University** - Aberystwyth, Wales, UK
 
 ## Experience
 
