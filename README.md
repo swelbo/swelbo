@@ -68,15 +68,15 @@ Here are some ideas to get you started:
  
 ## Education
 
-- 📖 **Ph.D. Molecular Plant Pathology and Bioinformatics**\
+- 📖 **Ph.D. Molecular Plant Pathology and Bioinformatics**\ 👨‍💻👨‍🔬🍄
 📆 2013 - 2017\
 📍 **Hertfordshire University** - Hatfield, England, UK
 
-- 📖 **M.Sc. Microbiology**\
+- 📖 **M.Sc. Microbiology**\ 👨‍💻👨‍🔬🍄
 📆 2008 - 2011\
 📍 **Aberystwyth University** - Aberystwyth, Wales, UK
 
-- 📖 **B.Sc. Microbiology**\
+- 📖 **B.Sc. Microbiology**\ 👨‍🔬🍄🦠
 📆 2008 - 2011\
 📍 **Aberystwyth University** - Aberystwyth, Wales, UK
 
