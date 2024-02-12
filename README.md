@@ -21,7 +21,7 @@
   </p>
 
   <p align='right'>
-    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=ambient_gradient" width="350"></a>
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=neon" width="350"></a>
   </p>
 </div>
 
