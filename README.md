@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="">
+  <a href="https://github.com/swelbo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thomas-sewell-24b05075/">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
