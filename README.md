@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/alexandresanlim'>sponsor me ❤️</a>
+  Do you like my projects? <a href='https://stars.github.com/swelbo/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/swelbo'>sponsor me ❤️</a>
 </p>
 
 <!-- <details align='center'>
@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:tsewell000@gmail.com.com'>alexandreslima@outlook.com</a>
 </p>
 
 
 <p align='center'>
-  <a href='https://www.chess.com/member/alexandresanlim'>♟Playing Chess
+  <a href='https://www.chess.com/member/swelbo'>♟Playing Chess
 <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/></a>
   </p>
 
