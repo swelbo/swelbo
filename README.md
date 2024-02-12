@@ -17,7 +17,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <p align='left'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=ambient_gradient" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=neon" width="350"></a>
   </p>
 
   <p align='right'>
@@ -26,7 +26,7 @@
 </div>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=ambient_gradient" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=neon" width="350"></a>
 </p>
 
 
