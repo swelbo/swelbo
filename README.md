@@ -24,7 +24,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&layout=compact&theme=dracula" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=dracula" width="350"></a>
 </p>
 
 
