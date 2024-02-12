@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:tsewell000@gmail.com.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:tsewell000@gmail.com'>tsewell000@gmail.com</a>
 </p>
 
 <details>
