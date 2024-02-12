@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm Tom 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Brazil.
+  Bioinformatician from the UK.
 </p>
 
 <p align='center'>
