@@ -68,7 +68,7 @@ Here are some ideas to get you started:
  
 ## Education
 
-- 📖 **Ph.D. Molecular Plant Pathology and Bioinformatics** 👨‍💻👨‍🔬🍄 \ 
+- 📖 **Ph.D. Molecular Plant Pathology and Bioinformatics** 👨‍💻👨‍🔬🍄 *\ 
 📆 2013 - 2017\
 📍 **Hertfordshire University** - Hatfield, England, UK
 
