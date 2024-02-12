@@ -16,11 +16,11 @@
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <p align='left'>
+  <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=panda" width="350"></a>
   </p>
 
-  <p align='right'>
+  <p align='center'>
     <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=neon" width="350"></a>
   </p>
 </div>
