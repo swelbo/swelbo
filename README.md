@@ -30,11 +30,11 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/swelbo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=panda" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/swelbo/convoychat">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=swelbo&theme=panda" />
 </a>
 
 
