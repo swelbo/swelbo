@@ -30,6 +30,16 @@
 </p>
 
 
+<div style="overflow: auto;">
+  <p style="float: left;">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=dracula" width="350"></a>
+  </p>
+
+  <p style="float: right;">
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=dracula" width="350"></a>
+  </p>
+</div>
+
 
 <p align='center'>
   💻 My workspace<br/><br/>
