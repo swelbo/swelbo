@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=tmyracle&theme=tokyonight)](https://git.io/streak-stats)
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=tmyracle&theme=tokyonight" width="350"></a>
 </p>
 
 <p align='center'>
