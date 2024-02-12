@@ -48,12 +48,12 @@ Here are some ideas to get you started:
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/alexandresanlim'>sponsor me ❤️</a>
 </p>
 
- <details align='center'>
+<!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:tsewell000@gmail.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
 </p>
 
 
@@ -65,20 +65,12 @@ Here are some ideas to get you started:
 <details>
   <summary>📃 Resume</summary>
 
- 
+
 ## Education
 
-- 📖🍄 **Ph.D. Molecular Plant Pathology and Bioinformatics**\ 
-📆 2013 - 2017\
-📍 **Hertfordshire University** - Hatfield, England, UK
-
-- 📖🍄 **M.Sc. Microbiology**\ 
-📆 2008 - 2011\
-📍 **Aberystwyth University** - Aberystwyth, Wales, UK
-
-- 📖🍄🦠 **B.Sc. Microbiology**\ 
-📆 2008 - 2011\
-📍 **Aberystwyth University** - Aberystwyth, Wales, UK
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
 
 ## Experience
 
@@ -109,9 +101,9 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 **EXAMPLE**\
+- 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - jun/2021\
-📍 **Post Doc** - London UK 
+📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -120,9 +112,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **EXAMPLE**\
-📆 2021 - jun/2021\
-📍 **Post Doc** - London UK 
+- 👨‍💻 **CIO and Cross Mobile Developer**\
+📆 2016 - 2021\
+📍 **Infinitus Solutions** - Curitiba/PR, Brazil
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -130,9 +122,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
-- 👨‍💻 **EXAMPLE**\
-📆 2021 - jun/2021\
-📍 **Post Doc** - London UK 
+- 👨‍💻 **Systems Analyst and Front End Developer**\
+📆 2015 - 2016\
+📍 **Web Works** - Presidente Prudente/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -196,4 +188,3 @@ Here are some ideas to get you started:
 
 
 </details>
-
