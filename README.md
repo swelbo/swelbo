@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/alexandresanlim'>sponsor me ❤️</a>
 </p>
 
-<!-- <details align='center'>
+ <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
 
 -->
- <!--
+
 </details>
 
 <details>
@@ -197,5 +197,3 @@ Here are some ideas to get you started:
 
 </details>
 
-
-  -->
