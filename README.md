@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Tom 👨‍💻
+  Hi there 👋 I'm Tom 👨‍💻 
 </h1>
 
 <p align='center'>
@@ -17,6 +17,10 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=tmyracle&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 <p align='center'>
