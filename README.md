@@ -21,6 +21,9 @@
   <a href="https://www.linkedin.com/in/thomas-sewell-24b05075/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://scholar.google.co.uk/citations?user=G7koMuMAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <div style="display: flex; justify-content: space-between;">
