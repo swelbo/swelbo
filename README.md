@@ -109,9 +109,9 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 **Cross Mobile Developer**\
+- 👨‍💻 **EXAMPLE**\
 📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+📍 **Post Doc** - London UK 
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -120,9 +120,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
+- 👨‍💻 **EXAMPLE**\
+📆 2021 - jun/2021\
+📍 **Post Doc** - London UK 
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -130,9 +130,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
+- 👨‍💻 **EXAMPLE**\
+📆 2021 - jun/2021\
+📍 **Post Doc** - London UK 
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
