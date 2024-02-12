@@ -23,7 +23,7 @@
 </a>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda" width="375"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda" width="300"></a>
 </p>
 
 
