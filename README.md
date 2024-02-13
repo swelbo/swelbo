@@ -30,7 +30,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=panda" width="375"></a>
+    <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api?username=swelbo&show_icons=true&count_private=true&theme=panda" width="375"></a>
   </p>
 
   <p align='center'>
@@ -39,7 +39,7 @@
 </div>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda" width="375"></a>
+  <a href="#"><img src="github-readme-stats-eta-ruddy-41.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda" width="375"></a>
 </p>
 
 <!-- <p align='center'>
