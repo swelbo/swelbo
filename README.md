@@ -27,6 +27,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+</div>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda&include_all_commits=true" width="375"></a>
+</p>
 
 <div style="display: flex; justify-content: space-between;">
   <p align='center'>
@@ -36,11 +41,7 @@
   <p align='center'>
     <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=panda&include_all_commits=true" width="375"></a>
   </p>
-</div>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda&include_all_commits=true" width="375"></a>
-</p>
 
 <!-- <p align='center'>
   Do you like my projects? <a href='https://stars.github.com/swelbo/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/swelbo'>sponsor me ❤️</a>
