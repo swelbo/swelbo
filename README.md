@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Bioinformatician / Data Scientisit / Software Developer
+  Bioinformatician / Data Scientist / Software Developer
 </p>
 
 <p align='center'>
