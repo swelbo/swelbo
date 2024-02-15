@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Bioinformatician from the UK.
+  Bioinformatician & Software Developer from the UK.
 </p>
 
 <p align='center'>
