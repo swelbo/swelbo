@@ -34,7 +34,7 @@
   </p>
 
   <p align='center'>
-    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=panda" width="375"></a>
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=panda&include_all_commits=true" width="375"></a>
   </p>
 </div>
 
