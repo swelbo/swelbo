@@ -58,9 +58,15 @@
 <details>
   <summary>📃 Resume</summary>
 
-<!--
+
 ## Education
 
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
 - 📖 **Web Development**\
 📆 2013 - 2016\
 📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
@@ -71,13 +77,13 @@
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
 
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2023 - moment\
-📍 **AB InBev** - Campinas/SP, Brazil
+- 👨‍💻 **Bioinformatician**\
+📆 2022 - current\
+📍 **Salient.Bio** - London, UK
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
+<!--
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - 2023\
 📍 **Xp Inc** - São Paulo/SP, Brazil
