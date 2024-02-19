@@ -61,15 +61,15 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Molecular Plant Pathology and Bioinformatics**\
+📆 2013 - 2017\
+📍 **UHerts** - London, UK
+- 📖 **Microbiologyt**\
+📆 2011 - 2012\
+📍 **Aberystwyth University** - Aberystwyth, Wales
+- 📖 **Microbiologyt**\
+📆 2008 - 2011\
+📍 **Aberystwyth University** - Aberystwyth, Wales
 
 ## Experience
 
