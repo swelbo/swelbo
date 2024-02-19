@@ -54,7 +54,7 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:tsewell000@gmail.com'>tsewell000@gmail.com</a>
 </p>
-<!--
+
 <details>
   <summary>📃 Resume</summary>
 
