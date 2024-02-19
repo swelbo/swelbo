@@ -64,18 +64,14 @@
 - 📖 **Molecular Plant Pathology and Bioinformatics**\
 📆 2013 - 2017\
 📍 **UHerts** - London, UK
-- 📖 **Microbiologyt**\
+- 📖 **Microbiology**\
 📆 2011 - 2012\
 📍 **Aberystwyth University** - Aberystwyth, Wales
-- 📖 **Microbiologyt**\
+- 📖 **Microbiology**\
 📆 2008 - 2011\
 📍 **Aberystwyth University** - Aberystwyth, Wales
 
 ## Experience
-
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-
 
 - 👨‍💻 **Bioinformatician**\
 📆 2022 - current\
