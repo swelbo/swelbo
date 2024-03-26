@@ -74,11 +74,9 @@
 ## Experience
 
 - 👨‍💻 **Bioinformatician**\
-📆 2022 - current <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" /> \
+📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> \
 📍 **Salient.Bio** - London, UK
 
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 <!--
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - 2023\
@@ -93,7 +91,6 @@
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
 
 
 - 👨‍💻 **Cross Mobile Developer**\
