@@ -78,7 +78,7 @@
 📍 **Salient.Bio** - London, UK
 
 - 👨‍💻 **Senior Scientist**\
-📆 2021 - 2022 /> \
+📆 2021 - 2022 \
 📍 **BactoBio** - London, UK
 
 - 👨‍💻 **Postdoctoral Bioinformatician**\
