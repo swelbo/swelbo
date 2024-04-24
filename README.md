@@ -77,6 +77,14 @@
 📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> \
 📍 **Salient.Bio** - London, UK
 
+- 👨‍💻 **Senior Scientist**\
+📆 2021 - 2022 /> \
+📍 **BactoBio** - London, UK
+
+- 👨‍💻 **Postdoctoral Bioinformatician**\
+📆 2017 - 2021 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> \
+📍 **Imperial College London** - London, UK
+
 <!--
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - 2023\
