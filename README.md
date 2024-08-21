@@ -28,11 +28,11 @@
   </a>&nbsp;&nbsp;
 </p>
 </div>
-
+<!--
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api/top-langs/?username=swelbo&langs_count=8&theme=panda&include_all_commits=true" width="375"></a>
 </p>
-
+<!--
 <div style="display: flex; justify-content: space-between;">
   <p align='center'>
     <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api?username=swelbo&include_all_commits=true&show_icons=true&count_private=true&theme=panda" width="375"></a>
