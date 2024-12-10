@@ -39,7 +39,7 @@
   </p>-->
 
   <p align='center'>
-    <a href="#"><img src="https://streak-stats.demolab.com/?user=swelbo&theme=panda&include_all_commits=true" width="375"></a>
+    <a href="#"><img src=[![GitHub Streak](https://streak-stats.demolab.com?user=swelbo&theme=tokyonight-duo)](https://git.io/streak-stats)></a>
   </p>
 
 
