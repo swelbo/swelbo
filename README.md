@@ -71,7 +71,7 @@
 ## Experience
 
 - 👨‍💻 **Bioinformatician**\
-📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> \ 
+📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/tensorflow?logo=gnu-bash&logoColor=white" /> \ 
 📍 **Salient.Bio** - London, UK
 
 - 👨‍💻 **Senior Scientist**\
