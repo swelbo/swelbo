@@ -38,7 +38,9 @@
     <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api?username=swelbo&include_all_commits=true&show_icons=true&count_private=true&theme=panda" width="375"></a>
   </p>-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swelbo)](https://git.io/streak-stats)
+<p align='center'>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=swelbo)](https://git.io/streak-stats)
+</p>
 
 <!-- <p align='center'>
   Do you like my projects? <a href='https://stars.github.com/swelbo/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/swelbo'>sponsor me ❤️</a>
