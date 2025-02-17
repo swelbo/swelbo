@@ -20,9 +20,6 @@
   <a href="https://scholar.google.co.uk/citations?user=G7koMuMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/swelbo">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thomas-sewell-24b05075/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -37,10 +34,6 @@
   <p align='center'>
     <a href="#"><img src="https://github-readme-stats-eta-ruddy-41.vercel.app/api?username=swelbo&include_all_commits=true&show_icons=true&count_private=true&theme=panda" width="375"></a>
   </p>-->
-
-<p align='center'>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=swelbo)](https://git.io/streak-stats)
-</p>
 
 <!-- <p align='center'>
   Do you like my projects? <a href='https://stars.github.com/swelbo/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/swelbo'>sponsor me ❤️</a>
