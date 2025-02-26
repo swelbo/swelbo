@@ -53,19 +53,19 @@
 
 ## Education
 
-- 📖 ** Ph.D - Molecular Plant Pathology and Bioinformatics**\
+- 📖 ** Ph.D - Molecular Plant Pathology and Bioinformatics** 😊 \
 📆 2013 - 2017\
 📍 **UH** - London, UK
-- 📖 ** M.Sc - Microbiology**\
+- 📖 ** M.Sc - Microbiology** 😊 \
 📆 2011 - 2012\
 📍 **Aberystwyth University** - Aberystwyth, Wales
-- 📖 ** B.Sc - Microbiology**\
+- 📖 ** B.Sc - Microbiology** 😊 \
 📆 2008 - 2011\
 📍 **Aberystwyth University** - Aberystwyth, Wales
 
 ## Experience
 
-- 👨‍💻 **Bioinformatician**\
+- 👨‍💻 **Bioinformatician** 😊 \
 📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white" alt="TensorFlow Badge" /> <img align="right" src="https://img.shields.io/badge/scikit--learn-orange?logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge" /> <img align="right" src="https://img.shields.io/badge/Nextflow-000000?logo=nextflow&logoColor=white" alt="Nextflow Badge" /> <img align="right" src="https://img.shields.io/badge/Snakemake-7E2553?logo=snakemake&logoColor=white" alt="Snakemake Badge" /> \
 📍 **Salient.Bio** - London, UK
 
@@ -73,7 +73,7 @@
 📆 2021 - 2022 \
 📍 **BactoBio** - London, UK
 
-- 👨‍💻 **Postdoctoral Bioinformatician**\
+- 👨‍💻 **Postdoctoral Bioinformatician** 😊 \
 📆 2017 - 2021 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> \
 📍 **Imperial College London** - London, UK
 
