@@ -53,7 +53,7 @@
 
 ## Education
 
-- 📖 ** Ph.D - Molecular Plant Pathology and Bioinformatics** 😊 \
+- 📖 **Ph.D - Molecular Plant Pathology and Bioinformatics** 😊 \
 📆 2013 - 2017\
 📍 **UH** - London, UK
 - 📖 ** M.Sc - Microbiology** 😊 \
