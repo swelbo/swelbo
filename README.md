@@ -56,7 +56,7 @@
 
 - 📖 **Ph.D - Molecular Plant Pathology and Bioinformatics** 😊 \
 📆 2013 - 2017\
-📍 **UH** - London, UK
+📍 **UH, DuPont, ADAS, Rothamsted** - London, UK
 - 📖 **M.Sc - Microbiology** 😊 \
 📆 2011 - 2012\
 📍 **Aberystwyth University** - Aberystwyth, Wales
