@@ -67,7 +67,7 @@
 ## Experience
 
 - 👨‍💻 **Senior Bioinformatician** 😊 \
-📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/scikit--learn-orange? logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge" />  <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch Badge" /> <img align="right" src="https://img.shields.io/badge/Nextflow-000000?logo=nextflow&logoColor=white" alt="Nextflow Badge" /> <img align="right" src="https://img.shields.io/badge/Snakemake-7E2553?logo=snakemake&logoColor=white" alt="Snakemake Badge" /> \
+📆 2022 - current <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/scikit--learn-orange? logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge" />  <img align="right" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch Badge" /> <img align="right" src="https://img.shields.io/badge/Nextflow-000000?logo=nextflow&logoColor=white" alt="Nextflow Badge" /> <img align="right" src="https://img.shields.io/badge/Snakemake-7E2553?logo=snakemake&logoColor=white" alt="Snakemake Badge" /> \
 📍 **Salient.Bio** - London, UK
 
 - 🧑‍🔬 **Senior Scientist**  \
