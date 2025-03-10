@@ -71,7 +71,7 @@
 📍 **Salient.Bio** - London, UK
 
 - 🧑‍🔬 **Senior Scientist**  \
-📆 2021 - 2022 \
+📆 2021 - 2022 <img align="right" src="https://img.shields.io/badge/Nanopore-blue?logo=oxfordnano&logoColor=white" alt="Nanopore Badge" /> <img align="right" src="https://img.shields.io/badge/Illumina-orange?logo=illumina&logoColor=white" alt="Illumina Badge" /> \
 📍 **BactoBio** - London, UK
 
 - 👨‍💻 **Postdoctoral Bioinformatician** 😊 \
